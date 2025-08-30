@@ -1,0 +1,9 @@
+🔹 Project Overview
+
+This project demonstrates a real-world cybersecurity pipeline that combines Vulnerability Assessment & Penetration Testing (VAPT) with Threat Intelligence Analysis to simulate corporate security practices. The framework helps in:
+
+    Identifying security vulnerabilities in web applications & networks.
+
+    Mapping those vulnerabilities with threat intelligence feeds (real-world attack vectors).
+
+    Generating automated threat reports with remediation steps.
