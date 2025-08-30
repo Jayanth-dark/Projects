@@ -14,7 +14,7 @@ Threat Intelligence Check (Python Script)
 python
 import requests
 
-API_KEY = "YOUR_API_KEY"
+API_KEY = "***YOUR_API_KEY***"
 OTX_URL = "https://otx.alienvault.com/api/v1/indicators/domain/{}/general"
 
 def check_domain_threat(domain):
