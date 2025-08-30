@@ -1,0 +1,23 @@
+🔹 Key Features
+
+    Automated Scanning
+
+        Basic vulnerability scan using Nmap, Nikto, and OpenVAS.
+
+    Threat Intelligence Integration
+
+        Uses OSINT APIs (e.g., AlienVault OTX, VirusTotal, AbuseIPDB) to check indicators of compromise.
+
+    Exploitation Simulation
+
+        Controlled penetration scenarios using Metasploit & SQLMap.
+
+    Reporting Dashboard
+
+        Python-based script generates a security report (HTML/PDF) with:
+
+            Threat severity
+
+            Exploited endpoints
+
+            Recommended mitigations
